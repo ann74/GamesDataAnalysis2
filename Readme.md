@@ -12,4 +12,4 @@ python3 main.py
 
 
 Пример визуализации:
-![img.png](../LestaGamesAnalyst/img.png)
+![](img.png)
